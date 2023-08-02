@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css?family=Dosis&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Dosis", sans-serif;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000000;
+}
+
+.calc {
+  border: 1px solid #717377;
+  padding: 20px;
+  border-radius: 16px;
+  background: url("./img/ben10_bg.jpg");
+  background-size: cover;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+}
+
+.calc::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+  background: url("./img/ben10_bg.jpg");
+  filter: blur(4px);
+  z-index: -1;
+}
+
+input {
+  width: 320px;
+  border: none;
+  padding: 24px;
+  margin: 10px;
+  border-radius: 16px;
+  background: url("./img/ben10_bgg.jpg");
+  box-shadow: 0px 3px 15px rgba(84, 84, 84, 0.1);
+  font-size: 40px;
+  text-align: right;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+input::placeholder {
+  color: #ffffff;
+}
+
+button {
+  border: none;
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  border-radius: 10px;
+  background: transparent;
+  color: #09fc00;
+  font-size: 20px;
+  box-shadow: -8px -8px 15px rgb(0, 0, 0);
+  cursor: pointer;
+}
+
+button:hover {
+  color: #ffffff;
+  background: url("./img/ben10_num.jpg");
+  background-size: cover;
+  backdrop-filter: blur(0.7px);
+  transform: scale(1.2);
+}
+
+.eqBtn {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.eqBtn:hover {
+  text-indent: -9999px;
+  background: url("./img/ben10.gif");
+  background-size: cover;
+}
+
+.opBtn {
+  background: #1e1e1e;
+}
+
+.opBtn:hover {
+  background: url("./img/ben10_num.jpg");
+  background-size: cover;
+}
