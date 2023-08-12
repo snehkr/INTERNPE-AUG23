@@ -1,38 +1,16 @@
 <h1 align="center"> INTERPE-WEB-DEVELOPMENT-AUG23 </h1>
 
-</br>
-
-### Ⓜ️ Platform Used :
-
-- Visual Studio Code
-
-</br>
-
-### 📝 TASK 1 :
-
-- A Simple Calculator With the help of HTML CSS & JS
-
-- <a href="https://internship-tasks.netlify.app/task-1/">LIVE DEMO </a>
-
-### 📝 TASK 2 :
+### [+] TASK 2 :
 
 - A E-Commerce Website With the help of HTML CSS & JS
 
-- <a href="https://internship-tasks.netlify.app/task-2/">LIVE DEMO </a>
+### [+] THEME :
 
-### 📝 TASK 3 :
+- BEN 10
 
-- COMING SOON
+### [+] Platform :
 
-### 📝 TASK 4 :
-
-- COMING SOON
-
-### 📝 TASK 5 :
-
-- COMING SOON
-
-</br>
+- Visual Studio Code
 
 ### [+] Find me on :
 
@@ -44,4 +22,4 @@
 
 ---
 
-<h5 align="center">© 2023-24 SnehKr.</h5>
+<h5 align='center'>© 2023-24 SnehKr.</h5>
