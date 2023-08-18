@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="bumblebee">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/x-icon" href="img/to-do.png" />
+
+    <title>TO-DO LIST APP</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <header>
+        <h1>TO-DO LIST APP</h1>
+
+        <div class="input-section">
+          <input
+            id="todo-input"
+            type="text"
+            placeholder="📝 ADD YOUR TO-DO HERE ..."
+            class="input w-full max-w-xs"
+          />
+          <button id="add-button" class="btn btn-add">
+            <i class="bx bx-plus bx-sm"></i>
+          </button>
+        </div>
+      </header>
+
+      <div class="todos-filter">
+        <button id="delete-selected" class="btn btn-ghost delete-selected-btn">
+          Remove Selected
+        </button>
+        <button id="delete-all" class="btn btn-ghost delete-all-btn">
+          Remove All
+        </button>
+      </div>
+
+      <ul id="all-todos" class="todos-list"></ul>
+      <div class="filters">
+        <div class="dropdown">
+          <button class="dropbtn">FILTER</button>
+          <div class="dropdown-content">
+            <a href="#" id="all">ALL</a>
+            <a href="#" id="rem">PENDING</a>
+            <a href="#" id="com">COMPLETED</a>
+          </div>
+        </div>
+        <div class="completed-task">
+          <p>COMPLETED: <span id="c-count">0</span></p>
+        </div>
+        <div class="remaining-task">
+          <p>TOTAL TASKS: <span id="r-count">0</span></p>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
