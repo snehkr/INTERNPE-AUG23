@@ -8,6 +8,12 @@
 
 </br>
 
+### 🐧 UI Based On :
+
+- Ben 10 Theme
+
+</br>
+
 ### 📝 TASK 1 :
 
 - A Simple Calculator With the help of HTML CSS & JS
@@ -25,14 +31,6 @@
 - A TO-DO LIST APP With the help of HTML CSS & JS
 
 - <a href="https://internship-tasks.netlify.app/task-3/">LIVE DEMO </a>
-
-### 📝 TASK 4 :
-
-- COMING SOON
-
-### 📝 TASK 5 :
-
-- COMING SOON
 
 </br>
 
