@@ -1,8 +1,10 @@
-<h1 align="center"> INTERPE-WEB-DEVELOPMENT-AUG23 </h1>
+<h1 align="center"> INTERNPE-WEB-DEVELOPMENT-AUG23 </h1>
 
 ### [+] TASK 2 :
 
 - A E-Commerce Website With the help of HTML CSS & JS
+
+- <a href="https://internpe-internship.netlify.app/task-2/">LIVE DEMO </a>
 
 ### [+] THEME :
 

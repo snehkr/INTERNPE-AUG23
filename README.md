@@ -1,4 +1,4 @@
-<h1 align="center"> INTERPE-WEB-DEVELOPMENT-AUG23 </h1>
+<h1 align="center"> INTERNPE-WEB-DEVELOPMENT-AUG23 </h1>
 
 </br>
 
@@ -18,19 +18,19 @@
 
 - A Simple Calculator With the help of HTML CSS & JS
 
-- <a href="https://internship-tasks.netlify.app/task-1/">LIVE DEMO </a>
+- <a href="https://internpe-internship.netlify.app/task-1/">LIVE DEMO </a>
 
 ### 📝 TASK 2 :
 
 - A E-Commerce Website With the help of HTML CSS & JS
 
-- <a href="https://internship-tasks.netlify.app/task-2/">LIVE DEMO </a>
+- <a href="https://internpe-internship.netlify.app/task-2/">LIVE DEMO </a>
 
 ### 📝 TASK 3 :
 
 - A TO-DO LIST APP With the help of HTML CSS & JS
 
-- <a href="https://internship-tasks.netlify.app/task-3/">LIVE DEMO </a>
+- <a href="https://internpe-internship.netlify.app/task-3/">LIVE DEMO </a>
 
 </br>
 
